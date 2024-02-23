@@ -7,7 +7,7 @@ permalink: /pl/support/
 
 # Pomoc Wsparcie QMK
 
-* [Sklep QMK na olkb.com](https://olkb.com/parts)
+* [Sklep QMK na olkb.com](https://olkb.com/collections/parts)
 * [Sklep Teespring](https://teespring.com/stores/qmk)
 * [Przekaż darowiznę przez OpenCollective](https://opencollective.com/qmk-firmware)
 * [Przyczyń się do rozwoju!](https://github.com/qmk/qmk_firmware/issues)

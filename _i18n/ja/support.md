@@ -7,7 +7,7 @@ lang: "ja"
 
 # QMK をサポートする
 
-* [olkb.com の QMK グッズ](https://olkb.com/parts)
+* [olkb.com の QMK グッズ](https://olkb.com/collections/parts)
 * [Teespring ストア](https://teespring.com/stores/qmk)
 * [OpenCollective 経由で寄付](https://opencollective.com/qmk-firmware)
 * [貢献する！](https://github.com/qmk/qmk_firmware/issues)

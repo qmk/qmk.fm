@@ -7,7 +7,7 @@ lang: "es"
 
 # Soporte de QMK
 
-* [Mercancía QMK en olkb.com](https://olkb.com/parts)
+* [Mercancía QMK en olkb.com](https://olkb.com/collections/parts)
 * [Tienda Teespring](https://teespring.com/stores/qmk)
 * [Donar vía OpenCollective](https://opencollective.com/qmk-firmware)
 * [¡Contribuir!](https://github.com/qmk/qmk_firmware/issues)

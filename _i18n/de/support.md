@@ -7,7 +7,7 @@ lang: "de"
 
 # QMK unterstützen
 
-* [QMK Fan-Artikel auf olkb.com](https://olkb.com/parts)
+* [QMK Fan-Artikel auf olkb.com](https://olkb.com/collections/parts)
 * [Teespring Online-Shop](https://teespring.com/de/stores/qmk)
 * [Spenden Sie via OpenCollective](https://opencollective.com/qmk-firmware)
 * [Wirke mit!](https://github.com/qmk/qmk_firmware/issues)

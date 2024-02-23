@@ -6,7 +6,7 @@ permalink: /support/
 
 # Help Support QMK
 
-* [QMK merch on olkb.com](https://olkb.com/parts)
+* [QMK merch on olkb.com](https://olkb.com/collections/parts)
 * [Teespring store](https://teespring.com/stores/qmk)
 * [Donate via OpenCollective](https://opencollective.com/qmk-firmware)
 * [Contribute!](https://github.com/qmk/qmk_firmware/issues)
