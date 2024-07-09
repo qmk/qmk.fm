@@ -23,7 +23,7 @@ export default defineConfig({
         ],
         socialLinks: [
             { icon: "discord", link: "https://discord.gg/qmk" },
-            { icon: "github", link: "https://github.com/qmk/qmk_distro_msys" },
+            { icon: "github", link: "https://github.com/qmk/qmk.fm" },
         ],
         footer: {
             message: 'This project is maintained by QMK collaborators and contributors like you!'
