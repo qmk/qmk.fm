@@ -12,7 +12,10 @@ export default defineConfig({
     head: [['link', { rel: 'icon', href: '/logo.png' }]],
 
     themeConfig: {
-        logo: '/logo.png',
+        logo: {
+            light: "/qmk-logo-light.svg",
+            dark: "/qmk-logo-dark.svg",
+        },
 
         sidebar,
 
