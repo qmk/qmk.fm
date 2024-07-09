@@ -1,0 +1,14 @@
+{
+  "name": "qmk.fm",
+  "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+  "repository": "git@github.com:qmk/qmk.fm.git",
+  "author": "QMK <hello@qmk.fm>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.2.0"
+  },
+  "scripts": {
+    "serve": "vitepress dev  --host 0.0.0.0 src",
+    "build": "vitepress build src"
+  }
+}

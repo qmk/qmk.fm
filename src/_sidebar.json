@@ -1,0 +1,22 @@
+[
+    { "text": "Getting Started", "link": "/guide" },
+    { "text": "Supported Keyboards", "link": "https://github.com/qmk/qmk_firmware/tree/master/keyboards" },
+    {
+        "text": "Projects", 
+        "items": [
+            { "text": "QMK Configurator", "link": "https://config.qmk.fm" },
+            { "text": "QMK Toolbox", "link": "https://github.com/qmk/qmk_toolbox" },
+            { "text": "Proton C", "link": "/proton-c" }
+        ]
+    },
+    {
+        "text": "Pages", 
+        "items": [
+            { "text": "About", "link": "/about" },
+            { "text": "Code of Conduct", "link": "/coc" },
+            { "text": "Trademark", "link": "/trademark" },
+            { "text": "Licence", "link": "/licence" },
+            { "text": "Support Us", "link": "/support" }
+        ]
+    }
+]
