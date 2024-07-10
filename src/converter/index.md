@@ -1,10 +1,12 @@
 # Convert KLE raw to QMK info.json
 
 ### Input:
+
 <textarea v-model="input"></textarea>
 <button class="VPButton medium brand" id="submit" @click="getData()">Convert</button>
 
 ### Output:
+
 <textarea v-model="output"></textarea>
 
 <script setup>
@@ -14,25 +16,25 @@ const input = ref('')
 const output = ref('')
 
 async function getData() {
-console.log(input.value)
-  const url = 'https://api.qmk.fm/v1/converters/kle';
-  try {
-    const response = await fetch(url, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json",
-        },
-        body: JSON.stringify({raw: input.value}),
-    });
-    if (!response.ok) {
-      throw new Error(`Response status: ${response.status}`);
-    }
+    const url = 'https://api.qmk.fm/v1/converters/kle';
+    try {
+        const response = await fetch(url, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({raw: input.value})
+        });
 
-    const ret = await response.text();
-    output.value = ret
-  } catch (error) {
-    console.error(error.message);
-  }
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+
+        const ret = await response.text();
+        output.value = ret;
+    } catch (error) {
+        console.error(error.message);
+    }
 }
 </script>
 
