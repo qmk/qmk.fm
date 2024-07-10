@@ -5,7 +5,7 @@
         "text": "Projects", 
         "items": [
             { "text": "QMK Configurator", "link": "https://config.qmk.fm" },
-            { "text": "QMK Toolbox", "link": "https://github.com/qmk/qmk_toolbox" },
+            { "text": "QMK Toolbox", "link": "/toolbox" },
             { "text": "Proton C", "link": "/proton-c" }
         ]
     },
