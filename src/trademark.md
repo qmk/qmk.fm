@@ -6,11 +6,11 @@ Anyone is entitled and encouraged to use the logo, the term "QMK (Firmware)", "P
 
 1. Don't imply QMK or its contributors endorse/make the keyboard
 2. [Contribute their keyboard's configuration back to qmk:master roughly by the keyboard's ship date](https://github.com/qmk/qmk_firmware/pulls/)
-3. Link to the [QMK website](https://qmk.fm) or [Github repo](https://github.com/qmk/qmk_firmware) on their product page
+3. Link to the [QMK website](https://qmk.fm) or [GitHub repo](https://github.com/qmk/qmk_firmware) on their product page
 
 Images with the logo and preferred wording to use on PCBs, print-outs, websites, stickers, merch, etc are below.
 
-## Optional steps
+## Optional Steps
 
 1. Request a tag (`<keyboard>-<version>` e.g. `planck-4.2`) of the commit shipped with the keyboard in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware). A compiled .hex/.bin is usually added to the release page for this.
 2. Be aware of [GPL compliance](https://fsfe.org/activities/ftf/useful-tips-for-vendors.en.html) - having a tag in the repo helps with this.
@@ -19,7 +19,7 @@ If your project uses QMK as the default and official firmware, we'd like to add 
 
 ## Images
 
-These are the default-sized badges in svg format (pngs: [dark](/badge-dark.png), [light](/badge-light.png)):
+These are the default-sized badges in svg format (PNGs: [dark](/badge-dark.png), [light](/badge-light.png)):
 
 <table>
     <tr>
@@ -28,7 +28,7 @@ These are the default-sized badges in svg format (pngs: [dark](/badge-dark.png),
     </tr>
 </table>
 
-A smaller version of each (pngs: [dark](/badge-small-dark.png), [light](/badge-small-light.png)):
+A smaller version of each (PNGs: [dark](/badge-small-dark.png), [light](/badge-small-light.png)):
 
 <table>
     <tr>
@@ -37,7 +37,7 @@ A smaller version of each (pngs: [dark](/badge-small-dark.png), [light](/badge-s
     </tr>
 </table>
 
-And badges for compatible or community-supported keyboards (pngs: [dark](/badge-community-dark.png), [light](/badge-community-light.png)):
+And badges for compatible or community-supported keyboards (PNGs: [dark](/badge-community-dark.png), [light](/badge-community-light.png)):
 
 <table>
     <tr>
@@ -46,6 +46,4 @@ And badges for compatible or community-supported keyboards (pngs: [dark](/badge-
     </tr>
 </table>
 
-**Please do not use modified versions these images** - if you'd like to use something different, [let us know](https://github.com/qmk/qmk.fm/issues), and we'll do our best to accommodate your wishes!
-
-<small>This page's modification history can be viewed [here](https://github.com/qmk/qmk.fm/commits/gh-pages/_pages/powered.md).</small>
+**Please do not use modified versions of these images** - if you'd like to use something different, [let us know](https://github.com/qmk/qmk.fm/issues), and we'll do our best to accommodate your wishes!
