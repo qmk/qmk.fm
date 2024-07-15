@@ -21,7 +21,7 @@ export default defineConfig({
 
         nav: [
             { text: "Home", link: "/" },
-            { text: "Keyboards", link: "https://github.com/qmk/qmk_firmware/tree/master/keyboards" },
+            { text: "Keyboards", link: "https://browse.qmk.fm" },
             { text: "Docs", link: "https://docs.qmk.fm" }
         ],
         socialLinks: [

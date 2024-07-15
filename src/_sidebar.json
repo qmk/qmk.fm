@@ -1,6 +1,6 @@
 [
     { "text": "Getting Started", "link": "/guide" },
-    { "text": "Supported Keyboards", "link": "https://github.com/qmk/qmk_firmware/tree/master/keyboards" },
+    { "text": "Supported Keyboards", "link": "https://browse.qmk.fm" },
     {
         "text": "Projects", 
         "items": [
