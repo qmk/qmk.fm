@@ -4,7 +4,7 @@ There are a lot of ways you can contribute to the QMK Community. The easiest way
 
 * Help people out on our forums and chat rooms:
     * [/r/olkb](https://www.reddit.com/r/olkb/)
-    * [Discord Server](https://discord.gg/Uq7gcHh)
+    * [Discord Server](https://discord.gg/qmk)
 * [Donate via OpenCollective](https://opencollective.com/qmk-firmware)
 
 ## Sponsors
