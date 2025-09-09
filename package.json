@@ -5,7 +5,7 @@
   "author": "QMK <hello@qmk.fm>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.2.0"
+    "vitepress": "^1.6.4"
   },
   "scripts": {
     "serve": "vitepress dev  --host 0.0.0.0 src",
