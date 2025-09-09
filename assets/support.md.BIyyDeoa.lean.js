@@ -1,0 +1,1 @@
+import{_ as r,c as t,o,ae as a}from"./chunks/framework.CinA6sqf.js";const d=JSON.parse('{"title":"Help Support QMK","description":"","frontmatter":{},"headers":[],"relativePath":"support.md","filePath":"support.md"}'),l={name:"support.md"};function n(i,e,s,p,h,u){return o(),t("div",null,[...e[0]||(e[0]=[a("",8)])])}const f=r(l,[["render",n]]);export{d as __pageData,f as default};

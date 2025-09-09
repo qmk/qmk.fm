@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as i,ae as r}from"./chunks/framework.CinA6sqf.js";const p=JSON.parse('{"title":"License","description":"","frontmatter":{},"headers":[],"relativePath":"licence.md","filePath":"licence.md"}'),n={name:"licence.md"};function a(s,e,c,h,d,l){return i(),t("div",null,[...e[0]||(e[0]=[r("",206)])])}const f=o(n,[["render",a]]);export{p as __pageData,f as default};

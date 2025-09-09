@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a2 as a}from"./chunks/framework._uBw_m_J.js";const m=JSON.parse('{"title":"Code Of Conduct","description":"","frontmatter":{},"headers":[],"relativePath":"coc.md","filePath":"coc.md"}'),i={name:"coc.md"},n=a("",9),r=[n];function l(s,c,d,u,p,h){return t(),o("div",null,r)}const g=e(i,[["render",l]]);export{m as __pageData,g as default};
