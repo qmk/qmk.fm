@@ -22,28 +22,34 @@ If your project uses QMK as the default and official firmware, we'd like to add 
 These are the default-sized badges in svg format (PNGs: [dark](/badge-dark.png), [light](/badge-light.png)):
 
 <table>
-    <tr>
-        <td><a href="/badge-dark.svg"><img src="/badge-dark.svg" alt="QMK Badge Dark" width="350" /></a></td>
-        <td><a href="/badge-light.svg"><img src="/badge-light.svg" alt="QMK Badge Light" width="350"/></a></td>
-    </tr>
+    <tbody>
+        <tr>
+            <td><a href="/badge-dark.svg"><img src="/badge-dark.svg" alt="QMK Badge Dark" width="350" /></a></td>
+            <td><a href="/badge-light.svg"><img src="/badge-light.svg" alt="QMK Badge Light" width="350"/></a></td>
+        </tr>
+    </tbody>
 </table>
 
 A smaller version of each (PNGs: [dark](/badge-small-dark.png), [light](/badge-small-light.png)):
 
 <table>
-    <tr>
-        <td><a href="/badge-small-dark.svg"><img src="/badge-small-dark.svg" alt="QMK Badge Small Dark" width="350"/></a></td>
-        <td><a href="/badge-small-light.svg"><img src="/badge-small-light.svg" alt="QMK Badge Small Light" width="350"/></a></td>
-    </tr>
+    <tbody>
+        <tr>
+            <td><a href="/badge-small-dark.svg"><img src="/badge-small-dark.svg" alt="QMK Badge Small Dark" width="350"/></a></td>
+            <td><a href="/badge-small-light.svg"><img src="/badge-small-light.svg" alt="QMK Badge Small Light" width="350"/></a></td>
+        </tr>
+    </tbody>
 </table>
 
 And badges for compatible or community-supported keyboards (PNGs: [dark](/badge-community-dark.png), [light](/badge-community-light.png)):
 
 <table>
-    <tr>
-        <td><a href="/badge-community-dark.svg"><img src="/badge-community-dark.svg" alt="QMK Community Badge Dark" width="350" /></a></td>
-        <td><a href="/badge-community-light.svg"><img src="/badge-community-light.svg" alt="QMK Community Badge Light" width="350" /></a></td>
-    </tr>
+    <tbody>
+        <tr>
+            <td><a href="/badge-community-dark.svg"><img src="/badge-community-dark.svg" alt="QMK Community Badge Dark" width="350" /></a></td>
+            <td><a href="/badge-community-light.svg"><img src="/badge-community-light.svg" alt="QMK Community Badge Light" width="350" /></a></td>
+        </tr>
+    </tbody>
 </table>
 
 **Please do not use modified versions of these images** - if you'd like to use something different, [let us know](https://github.com/qmk/qmk.fm/issues), and we'll do our best to accommodate your wishes!
