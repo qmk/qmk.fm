@@ -48,6 +48,10 @@ Digital IO |25 pins           |46 pins             |37 pins                     
 
 The STM32F303 has 9 times the usable storage space that the ATmega32U4 has. You could enable a bunch of features and still have plenty of room  left. For instance, the Planck EZ, which has audio and RGB matrix fully enabled (no sub-features disabled), and has the Link Time Optimization option turned off uses 45kB of firmware, leaving 200kB+ free, still. Plenty of room for most anything you want to do.
 
+## Pinout
+
+<img src="/proton-c-pinout.jpg" alt="Proton C pinout" width=600/>
+
 ## Warnings
 
 Some of the PCBs compatible with Pro Micro have VCC (3.3V) and RAW (5V) pins connected (shorted) on the pcb. Using the Proton C will short 5V power from USB and regulated 3.3V which is connected directly to the MCU. Shorting those pins may damage the MCU on the Proton C.
