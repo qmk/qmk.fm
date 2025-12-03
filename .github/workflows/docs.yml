@@ -17,9 +17,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
-    - uses: actions/setup-node@v4
+    - uses: actions/setup-node@v6
       with:
         node-version: 20
 
@@ -30,7 +30,7 @@ jobs:
 
     - name: Deploy
       if: ${{ github.event_name != 'pull_request' }}
-      uses: JamesIves/github-pages-deploy-action@v4.5.0
+      uses: JamesIves/github-pages-deploy-action@v4.7.4
       with:
         branch: gh-pages
         folder: .build/docs
