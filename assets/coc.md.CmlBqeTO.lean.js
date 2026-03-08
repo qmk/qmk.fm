@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,ae as i}from"./chunks/framework.CinA6sqf.js";const h=JSON.parse('{"title":"Code Of Conduct","description":"","frontmatter":{},"headers":[],"relativePath":"coc.md","filePath":"coc.md"}'),n={name:"coc.md"};function r(l,e,s,c,d,u){return t(),a("div",null,[...e[0]||(e[0]=[i("",9)])])}const f=o(n,[["render",r]]);export{h as __pageData,f as default};
