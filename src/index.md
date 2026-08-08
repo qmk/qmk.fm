@@ -4,7 +4,7 @@ hero:
   name: QMK Firmware
   tagline: Open-source keyboard firmware for Atmel AVR and Arm USB families
   image:
-    src: /logo.png
+    src: /logo.svg
   actions:
     - theme: brand
       text: Get Started →

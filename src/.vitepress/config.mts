@@ -9,7 +9,7 @@ export default defineConfig({
     title: 'QMK Firmware',
     description: 'Open-source keyboard firmware for Atmel AVR and Arm USB families',
 
-    head: [['link', { rel: 'icon', href: '/logo.png' }]],
+    head: [['link', { rel: 'icon', href: '/logo.svg' }]],
 
     themeConfig: {
         logo: {

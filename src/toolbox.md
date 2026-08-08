@@ -3,7 +3,7 @@ layout: home
 hero:
   name: QMK Toolbox
   tagline: A collection of flashing tools for QMK keyboards
-  image: /logo.png
+  image: /logo.svg
   actions:
     - theme: brand
       text: Install for Windows
